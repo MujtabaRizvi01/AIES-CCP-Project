@@ -55,6 +55,7 @@ Ask the agent:
 ---
 
 ## Explanation and preview
-```bash
+<!-- ```bash
 Link: https://youtu.be/3VQQTVPe6Zo
-```
+``` -->
+Link: https://youtu.be/3VQQTVPe6Zo
