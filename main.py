@@ -18,5 +18,6 @@ fundamental_agent = fundamental_analyzer_agent()
 # Setup and serve the playground application
 app = Playground(agents=[news_agent, tech_agent, fundamental_agent]).get_app()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
+    print("Starting the app...")
     serve_playground_app("main:app", reload=True)
