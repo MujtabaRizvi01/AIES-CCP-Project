@@ -51,3 +51,10 @@ After running the script, open the provided URL in your browser to interact with
 ### 3. Example Query
 Ask the agent:
 > "Stock analysis of Nvidia."
+
+---
+
+## Explanation and preview
+```bash
+Link: https://youtu.be/3VQQTVPe6Zo
+```
